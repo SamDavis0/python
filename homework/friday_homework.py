@@ -37,22 +37,24 @@
 #     print(answer)
 
 
-#3  (UNFINISHED)
+#3 
 # Use your solution in Matrix Addition, and extend it to work for a pair
 #  of matrices of any size, as long as they have the same size.
 
 # list1 = [[1,5,4],[2,3,6],[4,8,9]]
 # list2 = [[2,9,3],[4,8,1],[5,7,6]]
 
-# list3 = []
+# final = []
+
 
 # for i in range(len(list1)):             #dummy variable just for length (could be either list)
-#     n = []
+#     temp = []
 #     for j in range(len(list1)):
-#         z = 0
-#         for k in range(len(list1)):
+#         element = list1[i][j] + list2[i][j]
+#         temp.append(element)
+#     final.append(temp)
 
-
+# print(final)
 
 
 
@@ -94,17 +96,7 @@
 # S = 5
 # T = 7
 
-# letter = input("Leetspeak: ").upper()
 
-# letter = letter.replace('A', '4')
-# letter = letter.replace('E', '3')
-# letter = letter.replace('G', '6')
-# letter = letter.replace('I', '1')
-# letter = letter.replace('O', '0')
-# letter = letter.replace('S', '5')
-# letter = letter.replace('T', '7')
-
-# print(letter)
 
 
 #6
