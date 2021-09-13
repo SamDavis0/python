@@ -1,7 +1,4 @@
 # TIP CALCULATOR
-# good = 20% 
-# fair = 15% 
-# bad = 10%
 
 # bill = float(input("What is the total: "))
 
